@@ -1,8 +1,7 @@
 <h2 lign="left"> Davi Chacon
 <h3 lign="left"> always learning something new and all tech stuffs</h3>
 
-
-<p align="left"> <a href="https://www.linkedin.com/in/davi-chacon-5123b018a" target="blank"></a> </p>
+ <h3><a href="https://www.linkedin.com/in/davi-chacon-5123b018a" target="blank"></a> </p> </H3>
 
 <p align="left">
 
