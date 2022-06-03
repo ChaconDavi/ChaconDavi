@@ -1,10 +1,9 @@
 <h2 lign="left"> Davi Chacon
 <h3 lign="left"> always learning something new and all tech stuffs</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/brazxfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brazxfx" height="30" width="40" /></a>
-</p>
+<h3> 🌎 &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Davi Chacon](https://img.shields.io/badge/-ChaconDavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-chacon-5123b018a/)](https://www.linkedin.com/in/davi-chacon-5123b018a/)
 
 <p align="left">
 
