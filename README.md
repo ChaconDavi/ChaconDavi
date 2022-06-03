@@ -3,7 +3,7 @@
 
  <h3> 🌎 &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Davi Chacon](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-chacon-5123b018a/)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/davi-chacon-5123b018a/))
+[![Linkedin: Davi Chacon](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-chacon-5123b018a/)]((https://www.linkedin.com/in/davi-chacon-5123b018a/))
 
 <p align="left">
 
