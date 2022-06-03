@@ -1,7 +1,9 @@
 <h2 lign="left"> Davi Chacon
 <h3 lign="left"> always learning something new and all tech stuffs</h3>
 
- <h3><a href="https://www.linkedin.com/in/davi-chacon-5123b018a" target="blank"></a> </p> </H3>
+ <h3> 🌎 &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Davi Chacon](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-chacon-5123b018a/)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/davi-chacon-5123b018a/))
 
 <p align="left">
 
