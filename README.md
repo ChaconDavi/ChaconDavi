@@ -4,7 +4,6 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/davi-chacon-5123b018a" target="blank"></a> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <h3 align="left">Languages and Tools:</h3>
