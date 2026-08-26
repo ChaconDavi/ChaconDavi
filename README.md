@@ -134,7 +134,3 @@ histórico nomeado no navegador e exportação em PDF.
 <tr><td nowrap><b>Back-end e dados</b></td><td><img src="https://img.shields.io/badge/Node.js-7C3AED?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Express-7C3AED?style=flat-square&logo=express&logoColor=white" alt="Express"> <img src="https://img.shields.io/badge/MySQL-7C3AED?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/PostgreSQL-7C3AED?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"></td></tr>
 <tr><td nowrap><b>Infra</b></td><td><img src="https://img.shields.io/badge/Docker-8B5CF6?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-8B5CF6?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"> <img src="https://img.shields.io/badge/GitHub_Actions-8B5CF6?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Linux-8B5CF6?style=flat-square&logo=linux&logoColor=white" alt="Linux"> <img src="https://img.shields.io/badge/Git-8B5CF6?style=flat-square&logo=git&logoColor=white" alt="Git"></td></tr>
 </table>
-
-## Atividade
-
-<img src="https://raw.githubusercontent.com/ChaconDavi/ChaconDavi/master/grafico.svg" width="100%" alt="Mapa de calor das contribuições de 2026">
