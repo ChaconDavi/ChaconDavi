@@ -19,7 +19,7 @@
 </a>
 
 <details>
-<summary><b>O que tem dentro de cada uma</b></summary>
+<summary><img src="https://img.shields.io/badge/detalhe_de_cada_frente-2E1065?style=for-the-badge&labelColor=2E1065" alt="Detalhe de cada frente"></summary>
 
 <br>
 
@@ -50,17 +50,36 @@ matriz, imagem Docker e deploy em Kubernetes.
 
 ## Projetos públicos
 
-| Projeto | O que faz |
-|:--|:--|
-| [**Analisador de Currículos com IA**](https://github.com/ChaconDavi/ACV.py)<br><img src="https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Streamlit-7C3AED?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"> <img src="https://img.shields.io/badge/Ollama-7C3AED?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"> | Avalia currículo em PDF com LLM **rodando local**: sem chave de API e sem o arquivo sair da máquina |
-| [**Calculadora de Preço**](https://github.com/ChaconDavi/MDCalculator)<br><img src="https://img.shields.io/badge/JavaScript-6D28D9?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/HTML-6D28D9?style=flat-square&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/CSS-6D28D9?style=flat-square&logo=css&logoColor=white" alt="CSS"> | Margem por faixa de custo, histórico no navegador e exportação em PDF |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Analisador de Currículos com IA](https://github.com/ChaconDavi/ACV.py)**
+
+<img src="https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Streamlit-7C3AED?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"> <img src="https://img.shields.io/badge/Ollama-7C3AED?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
+
+Avalia currículo em PDF com LLM **rodando local**: sem chave de API e sem o arquivo
+sair da máquina — o que importa quando o PDF tem nome, telefone e endereço de alguém.
+
+</td>
+<td width="50%" valign="top">
+
+**[Calculadora de Preço — MD Móveis](https://github.com/ChaconDavi/MDCalculator)**
+
+<img src="https://img.shields.io/badge/JavaScript-6D28D9?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/HTML-6D28D9?style=flat-square&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/CSS-6D28D9?style=flat-square&logo=css&logoColor=white" alt="CSS">
+
+Precificação para uma loja de móveis: margem que cai conforme o ticket sobe,
+histórico nomeado no navegador e exportação em PDF.
+
+</td>
+</tr>
+</table>
 
 ## Stack
 
-<img src="https://img.shields.io/badge/PHP-5B21B6?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/TypeScript-5B21B6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-5B21B6?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/SQL-5B21B6?style=flat-square&logo=mysql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/HTML-5B21B6?style=flat-square&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/CSS-5B21B6?style=flat-square&logo=css&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/Sass-5B21B6?style=flat-square&logo=sass&logoColor=white" alt="Sass"> <img src="https://img.shields.io/badge/Ruby-5B21B6?style=flat-square&logo=ruby&logoColor=white" alt="Ruby"> <img src="https://img.shields.io/badge/Kotlin-5B21B6?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"> <img src="https://img.shields.io/badge/Java-5B21B6?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Python-5B21B6?style=flat-square&logo=python&logoColor=white" alt="Python">
-
-<img src="https://img.shields.io/badge/React-6D28D9?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/React_Native-6D28D9?style=flat-square&logo=expo&logoColor=white" alt="React_Native"> <img src="https://img.shields.io/badge/Next.js-6D28D9?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/Angular-6D28D9?style=flat-square&logo=angular&logoColor=white" alt="Angular"> <img src="https://img.shields.io/badge/Ionic-6D28D9?style=flat-square&logo=ionic&logoColor=white" alt="Ionic"> <img src="https://img.shields.io/badge/Capacitor-6D28D9?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor">
-
-<img src="https://img.shields.io/badge/Node.js-7C3AED?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Express-7C3AED?style=flat-square&logo=express&logoColor=white" alt="Express"> <img src="https://img.shields.io/badge/MySQL-7C3AED?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/PostgreSQL-7C3AED?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-
-<img src="https://img.shields.io/badge/Docker-8B5CF6?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-8B5CF6?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"> <img src="https://img.shields.io/badge/GitHub_Actions-8B5CF6?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub_Actions"> <img src="https://img.shields.io/badge/Linux-8B5CF6?style=flat-square&logo=linux&logoColor=white" alt="Linux"> <img src="https://img.shields.io/badge/Git-8B5CF6?style=flat-square&logo=git&logoColor=white" alt="Git">
+<table>
+<tr><td nowrap><b>Linguagens</b></td><td><img src="https://img.shields.io/badge/PHP-5B21B6?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/TypeScript-5B21B6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-5B21B6?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/SQL-5B21B6?style=flat-square&logo=mysql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/HTML-5B21B6?style=flat-square&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/CSS-5B21B6?style=flat-square&logo=css&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/Sass-5B21B6?style=flat-square&logo=sass&logoColor=white" alt="Sass"> <img src="https://img.shields.io/badge/Ruby-5B21B6?style=flat-square&logo=ruby&logoColor=white" alt="Ruby"> <img src="https://img.shields.io/badge/Kotlin-5B21B6?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"> <img src="https://img.shields.io/badge/Java-5B21B6?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Python-5B21B6?style=flat-square&logo=python&logoColor=white" alt="Python"></td></tr>
+<tr><td nowrap><b>Front-end</b></td><td><img src="https://img.shields.io/badge/React-6D28D9?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/React_Native-6D28D9?style=flat-square&logo=expo&logoColor=white" alt="React_Native"> <img src="https://img.shields.io/badge/Next.js-6D28D9?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/Angular-6D28D9?style=flat-square&logo=angular&logoColor=white" alt="Angular"> <img src="https://img.shields.io/badge/Ionic-6D28D9?style=flat-square&logo=ionic&logoColor=white" alt="Ionic"> <img src="https://img.shields.io/badge/Capacitor-6D28D9?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor"></td></tr>
+<tr><td nowrap><b>Back-end e dados</b></td><td><img src="https://img.shields.io/badge/Node.js-7C3AED?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Express-7C3AED?style=flat-square&logo=express&logoColor=white" alt="Express"> <img src="https://img.shields.io/badge/MySQL-7C3AED?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/PostgreSQL-7C3AED?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"></td></tr>
+<tr><td nowrap><b>Infra</b></td><td><img src="https://img.shields.io/badge/Docker-8B5CF6?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-8B5CF6?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"> <img src="https://img.shields.io/badge/GitHub_Actions-8B5CF6?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub_Actions"> <img src="https://img.shields.io/badge/Linux-8B5CF6?style=flat-square&logo=linux&logoColor=white" alt="Linux"> <img src="https://img.shields.io/badge/Git-8B5CF6?style=flat-square&logo=git&logoColor=white" alt="Git"></td></tr>
+</table>
