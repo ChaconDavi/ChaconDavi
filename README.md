@@ -45,7 +45,7 @@ migração de banco por matriz, build de imagem Docker e deploy em Kubernetes.
 
 </details>
 
-## Projetos
+## Projetos em construção
 
 <table>
 <tr><td>
@@ -59,7 +59,7 @@ PIX e cartão em checkout transparente, entrega por motoboy via Uber Direct, e *
 </td></tr>
 <tr><td>
 
-**Cayo** &nbsp;<img src="https://img.shields.io/badge/em_constru%C3%A7%C3%A3o-8B5CF6?style=flat-square&labelColor=8B5CF6" alt="em construção"> &nbsp;·&nbsp; Cobrança recorrente, com o time
+**Cayo** &nbsp;<img src="https://img.shields.io/badge/com_o_time-8B5CF6?style=flat-square&labelColor=8B5CF6" alt="com o time"> &nbsp;·&nbsp; Cobrança recorrente
 
 <img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-8B5CF6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/PostgreSQL-8B5CF6?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 
@@ -68,7 +68,7 @@ SaaS de gestão e automação de cobrança: você informa quem deve, quanto e qu
 </td></tr>
 <tr><td>
 
-**GateCheck** &nbsp;<img src="https://img.shields.io/badge/em_constru%C3%A7%C3%A3o-8B5CF6?style=flat-square&labelColor=8B5CF6" alt="em construção"> &nbsp;·&nbsp; Ingressos e check-in, com o time
+**GateCheck** &nbsp;<img src="https://img.shields.io/badge/com_o_time-8B5CF6?style=flat-square&labelColor=8B5CF6" alt="com o time"> &nbsp;·&nbsp; Ingressos e check-in
 
 <img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-8B5CF6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/PostgreSQL-8B5CF6?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 
