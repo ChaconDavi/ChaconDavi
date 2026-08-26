@@ -9,23 +9,44 @@
 
 | Onde | O que sustento lá |
 |:--|:--|
-| **Plataforma de gestão** — multi-perfil, em produção<br><img src="https://img.shields.io/badge/PHP-7C3AED?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/MySQL-7C3AED?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/JS-7C3AED?style=flat-square&logo=javascript&logoColor=white" alt="JS"> <img src="https://img.shields.io/badge/HTML-7C3AED?style=flat-square&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/CSS-7C3AED?style=flat-square&logo=css&logoColor=white" alt="CSS"> | Server-rendered: do `SELECT` ao `<select>` no mesmo arquivo. Permissão por perfil, relatório, e **migrations escritas à mão e versionadas por data** |
-| **Marketplace** — app, web e API<br><img src="https://img.shields.io/badge/TypeScript-6D28D9?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Expo-6D28D9?style=flat-square&logo=expo&logoColor=white" alt="Expo"> <img src="https://img.shields.io/badge/Next.js-6D28D9?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/Postgres-6D28D9?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres"> | PIX e cartão em checkout transparente, entrega por motoboy via Uber Direct, e **comissão congelada na venda** para relatório antigo não ser reescrito |
-| **Cloud Humans** — atendimento com IA<br><img src="https://img.shields.io/badge/Ruby-5B21B6?style=flat-square&logo=ruby&logoColor=white" alt="Ruby"> <img src="https://img.shields.io/badge/Kotlin-5B21B6?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"> <img src="https://img.shields.io/badge/Java-5B21B6?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/K8s-5B21B6?style=flat-square&logo=kubernetes&logoColor=white" alt="K8s"> | **Integração nativa** entre o agente de IA e a plataforma omnichannel — fazer os dois produtos da empresa virarem um |
-| **Em construção** — com o time<br><img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-8B5CF6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Postgres-8B5CF6?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres"> | SaaS de cobrança recorrente, e plataforma de ingressos com check-in por QR Code |
+| **Tiix** &nbsp;<img src="https://img.shields.io/badge/atual-7C3AED?style=flat-square&labelColor=7C3AED" alt="atual"><br>Plataforma de gestão multi-perfil<br><img src="https://img.shields.io/badge/PHP-7C3AED?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/MySQL-7C3AED?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/JS-7C3AED?style=flat-square&logo=javascript&logoColor=white" alt="JS"> <img src="https://img.shields.io/badge/HTML-7C3AED?style=flat-square&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/CSS-7C3AED?style=flat-square&logo=css&logoColor=white" alt="CSS"> | Sistema com perfis distintos para profissional, empresa, corretora e unidade, mantido por um time de seis pessoas. Server-rendered: do `SELECT` ao `<select>` no mesmo arquivo. Permissão por perfil, relatório, e **migrations escritas à mão e versionadas por data** |
+| **Cloud Humans** &nbsp;<img src="https://img.shields.io/badge/anterior-4C1D95?style=flat-square&labelColor=4C1D95" alt="anterior"><br>Atendimento com IA<br><img src="https://img.shields.io/badge/Ruby-5B21B6?style=flat-square&logo=ruby&logoColor=white" alt="Ruby"> <img src="https://img.shields.io/badge/Kotlin-5B21B6?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"> <img src="https://img.shields.io/badge/Java-5B21B6?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/TypeScript-5B21B6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/K8s-5B21B6?style=flat-square&logo=kubernetes&logoColor=white" alt="K8s"> | Features nos dois produtos da empresa. A entrega que considero minha melhor foi a **integração nativa** entre o agente de IA e a plataforma omnichannel — fazer os dois virarem um |
 
 <a href="https://github.com/cloudhumans/typebot.io/pull/132">
   <img src="https://img.shields.io/badge/PR_%23132_na_Cloud_Humans-merged_%7C_%2B2.463_linhas_em_57_arquivos-5B21B6?style=for-the-badge&labelColor=2E1065&logo=github&logoColor=white" alt="PR #132 na Cloud Humans">
 </a>
 
 <details>
-<summary><img src="https://img.shields.io/badge/detalhe_de_cada_frente-2E1065?style=for-the-badge&labelColor=2E1065" alt="Detalhe de cada frente"></summary>
+<summary><img src="https://img.shields.io/badge/o_que_fiz_na_cloud_humans-2E1065?style=for-the-badge&labelColor=2E1065" alt="O que fiz na Cloud Humans"></summary>
 
 <br>
 
-**Marketplace** — monorepo de quatro pacotes: app Expo, web Next, API Express e uma
-camada compartilhada de regra de negócio, para o app e o site nunca divergirem no
-que cobram.
+Os dois produtos são **ClaudIA**, agente de IA que resolve atendimento sozinho, e
+**CloudChat**, a plataforma omnichannel de WhatsApp, chat, e-mail e redes.
+
+No [PR #132](https://github.com/cloudhumans/typebot.io/pull/132), público, no
+construtor de fluxo: blocos novos no builder (variáveis nativas, validação de CPF e
+CNPJ, bloco de nota com editor próprio), busca dentro do fluxo — o que salva quando
+o bot passa de algumas centenas de nós — e o pipeline de CI/CD com migração de banco
+por matriz, imagem Docker e deploy em Kubernetes.
+
+</details>
+
+## Projetos
+
+| O quê | O que tem dentro |
+|:--|:--|
+| **Marketplace com entrega rápida** &nbsp;<img src="https://img.shields.io/badge/projeto_pessoal-6D28D9?style=flat-square&labelColor=6D28D9" alt="projeto pessoal"><br>App, web e API<br><img src="https://img.shields.io/badge/TypeScript-6D28D9?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Expo-6D28D9?style=flat-square&logo=expo&logoColor=white" alt="Expo"> <img src="https://img.shields.io/badge/Next.js-6D28D9?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/Postgres-6D28D9?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres"> | PIX e cartão em checkout transparente, entrega por motoboy via Uber Direct, e **comissão congelada na venda** para relatório antigo não ser reescrito |
+| **Cobrança e ingressos** &nbsp;<img src="https://img.shields.io/badge/em_constru%C3%A7%C3%A3o-8B5CF6?style=flat-square&labelColor=8B5CF6" alt="em construção"><br>Com o time<br><img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-8B5CF6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Postgres-8B5CF6?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres"> | SaaS de cobrança recorrente, e plataforma de venda de ingressos com check-in por QR Code |
+
+<details>
+<summary><img src="https://img.shields.io/badge/como_o_marketplace_e_feito-2E1065?style=for-the-badge&labelColor=2E1065" alt="Como o marketplace é feito"></summary>
+
+<br>
+
+Monorepo de quatro pacotes: app Expo, web Next, API Express e uma camada
+compartilhada de regra de negócio, para o app e o site nunca divergirem no que
+cobram ou no que mostram.
 
 - Pagamento com PIX (QR) e cartão, com estorno e conciliação contra o gateway
   quando o webhook não chega — porque `status_pago` no meu banco não é verdade
@@ -36,19 +57,11 @@ que cobram.
 - CI com testes de integração contra um Postgres de verdade, porque a regra que
   importa mora no SQL
 
-**Cloud Humans** — features nos dois produtos: **ClaudIA**, agente de IA que
-resolve atendimento sozinho, e **CloudChat**, a plataforma omnichannel de WhatsApp,
-chat, e-mail e redes. No [PR #132](https://github.com/cloudhumans/typebot.io/pull/132),
-público: blocos novos no construtor de fluxo (variáveis nativas, validação de CPF e
-CNPJ, bloco de nota com editor próprio), busca dentro do fluxo — o que salva quando
-o bot passa de algumas centenas de nós — e o pipeline de CI/CD com migração por
-matriz, imagem Docker e deploy em Kubernetes.
-
 **Também:** app mobile com Angular, Ionic e Capacitor, com build Android gerado.
 
 </details>
 
-## Projetos públicos
+## No GitHub, para abrir e ler
 
 <table>
 <tr>
