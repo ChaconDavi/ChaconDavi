@@ -76,8 +76,8 @@
     <text x="112" y="246" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
           font-size="25" fill="#DDD6FE">Sistemas em produção, com gente dependendo deles</text>
 
-    <rect x="112" y="284" width="46" height="2" rx="1" fill="#A78BFA" fill-opacity="0.9"/>
-    <text x="174" y="291" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
-          font-size="17" font-weight="500" letter-spacing="2.4" fill="#B69CFB">PHP · TYPESCRIPT · RUBY · KOTLIN · JAVA · PYTHON</text>
+    <rect x="112" y="270" width="46" height="2" rx="1" fill="#A78BFA" fill-opacity="0.9"/>
+    <text x="112" y="296" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+          font-size="16" font-weight="500" letter-spacing="2.2" fill="#B69CFB">PHP · TYPESCRIPT · JAVASCRIPT · SQL · HTML · CSS · SASS · RUBY · KOTLIN · JAVA · PYTHON</text>
   </g>
 </svg>

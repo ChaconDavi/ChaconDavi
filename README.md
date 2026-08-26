@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ChaconDavi/ChaconDavi/master/banner.svg?v=2" width="100%" alt="Davi Chacon — desenvolvedor full-stack">
+<img src="https://raw.githubusercontent.com/ChaconDavi/ChaconDavi/master/banner.svg?v=3" width="100%" alt="Davi Chacon — desenvolvedor full-stack">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/davi-chacon-5123b018a/"><img src="https://img.shields.io/badge/LINKEDIN-7C3AED?style=for-the-badge&labelColor=7C3AED" alt="LinkedIn"></a>
